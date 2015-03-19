@@ -1,6 +1,6 @@
 Flasky
 ======
-https://travis-ci.org/latusaki/flasky.svg?branch=master
+[![Build Status](https://travis-ci.org/latusaki/flasky.svg?branch=master)](https://travis-ci.org/latusaki/flasky)
 
 This repository contains the source code examples for my O'Reilly book [Flask Web Development](http://www.flaskbook.com).
 
